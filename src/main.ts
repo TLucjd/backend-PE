@@ -17,7 +17,7 @@ async function bootstrap() {
   app.enableCors({
     origin: [
       'http://localhost:3000',
-      'https://commerce-fe-six.vercel.app', 
+      'https://frontend-pe-i3xr.vercel.app/', 
     ],
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: true,
